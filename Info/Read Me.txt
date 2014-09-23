@@ -1,0 +1,2 @@
+Read Me:
+Please note that the accompanying coding exercise has been tested with Safari and Internet Explorer ONLY.
